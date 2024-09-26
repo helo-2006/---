@@ -1,0 +1,59 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+section{
+     height: 100vh;
+     background-image: url(./img/كنيسة.jpg);
+     background-size: cover;
+     background-repeat: no-repeat; 
+     }
+h1{
+     color: white;
+     text-align: center;
+     font-size: 80px;
+} 
+#l1{
+     text-align: center;
+     align-items: center;
+     position: absolute;
+     top: 40%;
+    right: 0%;
+    
+}   
+#a1{
+     font-size: 40px;
+     font-weight: bolder;
+     text-align: center;
+     align-items: center;
+     padding: 100px;
+     color: beige;
+    
+     
+} 
+#m1{
+     width: 71%;
+padding-top: 100px;
+}
+#main{
+     position: absolute;
+     top: 0;
+     left: 2%;
+    width: fit-content;
+    border-radius: 0;
+    font-size: x-large;
+   
+     opacity: 1;
+     
+}
+#arrow{
+     position: absolute;
+     top: 2%;
+     left: 3%;
+     height: 70px;
+}
+a{
+     text-decoration: none;
+     color: white;
+     
+}
